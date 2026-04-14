@@ -1,11 +1,15 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rahul Idiga</h1>
-<h3 align="center">📊 Data Analyst "Turning raw data into actionable insights" "Storytelling with numbers, dashboards, and trends" "From spreadsheets to strategy — data that drives decisions" ⚙️ Data Engineer "Building reliable pipelines for modern data ecosystems" "Transforming raw data into clean, scalable datasets" "Architecting the backbone of analytics and AI" 🎨 Frontend Developer "Crafting seamless user experiences with code" "From design to deployment — bringing interfaces to life" "Building responsive, interactive, and accessible web apps"</h3>
+<h3 align="center">📊 Data Analyst "Turning raw data into actionable insights" "Storytelling with numbers, dashboards, and trends" "From spreadsheets to strategy — data that drives decisions" 
+⚙️ Data Engineer "Building reliable pipelines for modern data ecosystems" "Transforming raw data into clean, scalable datasets" "Architecting the backbone of analytics and AI"
+🎨 Frontend Developer "Crafting seamless user experiences with code" "From design to deployment — bringing interfaces to life" "Building responsive, interactive, and accessible web apps"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldiga9380&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldiga9380" /> </p>
 
-- "Aspiring Data Analyst | Skilled in SQL, Python, and turning data into insights""Aspiring Data Engineer | Passionate about pipelines, SQL, and cloud data systems" **Aspiring Data Analyst | Skilled in SQL, Python, and turning data into insights""Aspiring Data Engineer | Passionate about pipelines, SQL, and cloud data systems"**
+- "Aspiring Data Analyst | Skilled in SQL, Python, and turning data into insights"
+- "Aspiring Data Engineer | Passionate about pipelines, SQL, and cloud data systems" **Aspiring Data Analyst | Skilled in SQL, Python, and turning data into insights
+- ""Aspiring Data Engineer | Passionate about pipelines, SQL, and cloud data systems"**
 
 - 🌱 **Currently learning AWS Cloud and data engineering frameworks while working on various projects to build practical expertise**
 
