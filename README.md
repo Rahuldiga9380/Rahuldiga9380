@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`Python` `SQL` `Java`'Javascript'
+`Python` `SQL` `Java``Javascript`
 
 ### 📊 Data Analytics
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `KPI Analysis`
@@ -33,9 +33,9 @@
 
 ### 🗄️ Databases
 `MySQL` (Joins, Aggregations, Subqueries)
-### Frontend: HTML5, CSS3, JavaScript, React.js, Responsive Web Design,API(Basics),RestAPI
+### Frontend: `HTML5, CSS3, JavaScript, React.js, Responsive Web Design,API(Basics),RestAPI`
 
-### Core Computer Science Concepts - Object-Oriented Programming (OOPS) ,Database Management Systems (DBMS) ,Computer Networking Operating System(OS) ,Data Structures & Algorithms (DSA) ,Problem Solving.
+### Core Computer Science Concepts - `Object-Oriented Programming (OOPS)` ,`Database Management Systems (DBMS)` ,`Computer Networking Operating System(OS)` ,`Data Structures & Algorithms (DSA)` ,`Problem Solving.`
 
 ### ⚙️ Tools & Platforms
 `Git` `GitHub` `VS Code` `Jupyter Notebook` `Postman` `Databricks`
