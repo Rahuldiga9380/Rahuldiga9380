@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Idiga</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Data Engineer | Problem Solver</h3>
+<h3 align="center">🚀 Aspiring Data Analyst | Data Engineer |FrontEnd Developer| Problem Solver</h3>
 
 <p align="center">
   📊 Turning raw data into actionable insights <br>
@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`Python` `SQL` `Java`
+`Python` `SQL` `Java`'Javascript'
 
 ### 📊 Data Analytics
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `KPI Analysis`
@@ -33,6 +33,9 @@
 
 ### 🗄️ Databases
 `MySQL` (Joins, Aggregations, Subqueries)
+### Frontend: HTML5, CSS3, JavaScript, React.js, Responsive Web Design,API(Basics),RestAPI
+
+### Core Computer Science Concepts - Object-Oriented Programming (OOPS) ,Database Management Systems (DBMS) ,Computer Networking Operating System(OS) ,Data Structures & Algorithms (DSA) ,Problem Solving.
 
 ### ⚙️ Tools & Platforms
 `Git` `GitHub` `VS Code` `Jupyter Notebook` `Postman` `Databricks`
